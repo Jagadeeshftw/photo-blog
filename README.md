@@ -1,2 +1,2 @@
- #photo shop
+ # Jagadeesh photo shop
 
